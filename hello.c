@@ -2,5 +2,5 @@
 
 int main()
 {
-	printf("Privet, Mir!\n");
+	printf("Shalom, Mir!\n");
 }
